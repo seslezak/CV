@@ -1,4 +1,3 @@
-```
 ## Steven Slezak
 ### Santa Monica, California 90403
 
@@ -142,4 +141,3 @@
 •	Sabremetrics 101:  Baseball Analytics, Boston University (edX), 2014.
 
 •	Financial Engineering and Risk Management, Parts I and II, Columbia University (Coursera), 2013-2014.
-```
