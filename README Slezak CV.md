@@ -1,14 +1,14 @@
 ## Steven Slezak
-### Santa Monica, California 90403
+### Santa Monica, California 90403  
 ***
-### DATA ANALYTICS SOLUTIONS TO BUSINESS AND FP&A PROBLEMS;  
-### DEFINE COMPETITIVE ADVANTAGE AND CREATE VALUE;  
-### STRONG MANAGEMENT AND SOCIAL SKILL SET
+### Data Analytics Solutions to Business and FP & A Problems;  
+### Define Competitive Advantage and Create Value;  
+### Strong Management and Social Skill Set
 ***
-#### https://www.linkedin.com/in/steven-slezak-a3243914  
-#### https://github.com/seslezak
-#### https://rpubs.com/seslezak
-#### https://globalriskinsights.com/author/profslezak/
+#### *https://www.linkedin.com/in/steven-slezak-a3243914*  
+#### *https://github.com/seslezak*
+#### *https://rpubs.com/seslezak*
+#### *https://globalriskinsights.com/author/profslezak/*
 ***
 #### March 2016 to Date – Senior Financial Planning Analyst, CallFire Inc., Los Angeles, California.
 
