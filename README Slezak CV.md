@@ -10,8 +10,7 @@
 #### https://rpubs.com/seslezak
 #### https://globalriskinsights.com/author/profslezak/
 ***
-### March 2016 to Date – Senior Financial Planning Analyst, CallFire Inc., Los Angeles, California.
-
+#### March 2016 to Date – Senior Financial Planning Analyst, CallFire Inc., Los Angeles, California.
 
   •	Financial data analyst at telecom tech company operating on SaaS model.
   
@@ -47,7 +46,7 @@
   
   •	Support business analysis function with resource allocation, planning, and development of projects to enhance product and customer service.
 ***
-### March 2002 to February 2016 – Consultant, FinEx Co. LLC, San Luis Obispo, California.
+#### March 2002 to February 2016 – Consultant, FinEx Co. LLC, San Luis Obispo, California.
 
 •	Financial data analysis and strategic management consultant to clients in education, agriculture and agribusiness, health care, and technology. 
 
@@ -67,19 +66,19 @@
 
 •	Economic, financial, and operations model building, data simulation, monte carlo simulation and modeling, financial planning and analysis, statistical analysis, revenue and costs analyses.
 ***
-### August 2013 to August 2015 – Analyst, Global Risk Insights, London, England.
+#### August 2013 to August 2015 – Analyst, Global Risk Insights, London, England.
 
 •	Wrote analyses on various topics related to risk in agriculture, finance, insurance, and enterprise risk management.
 ***
-### September 2006 to December 2015 – Lecturer, Agribusiness Department, College of Agriculture, Food, and Environmental Science; Mathematics Department, College of Science and Mathematics; and Finance Department, Orfalea College of Business, Cal Poly, San Luis Obispo, California.
+#### September 2006 to December 2015 – Lecturer, Agribusiness Department, College of Agriculture, Food, and Environmental Science; Mathematics Department, College of Science and Mathematics; and Finance Department, Orfalea College of Business, Cal Poly, San Luis Obispo, California.
 
 •	Taught undergraduate courses in algebra, calculus, financial analysis, strategic planning, risk management, international trade, linear programming, and Excel.
 ***
-### September 2004 to December 2005 – Practitioner Faculty, Finance Department, Carey Business School, Johns Hopkins University, Baltimore, Maryland.
+#### September 2004 to December 2005 – Practitioner Faculty, Finance Department, Carey Business School, Johns Hopkins University, Baltimore, Maryland.
 
 •	Taught graduate courses in corporate finance and financial mathematics.
 ***
-### November 1999 to March 2002 – Director of Business Development, Atapco, Baltimore, Maryland.
+#### November 1999 to March 2002 – Director of Business Development, Atapco, Baltimore, Maryland.
 
 •	Financial engineer at private equity company with attached family office. 
 
@@ -95,7 +94,7 @@
 
 •	Analyzed and implemented large derivatives transactions.
 ***
-### January 1998 to November 1999 – Director of Risk Management, ACN Power, McLean, Virginia.
+#### January 1998 to November 1999 – Director of Risk Management, ACN Power, McLean, Virginia.
 
 •	Financial engineer for energy trading company.
 
@@ -115,7 +114,7 @@
 
 •	Responsible for compliance with markets and government regulators.
 ***
-### EDUCATION
+#### EDUCATION
 
 •	Candidate, University of California, Los Angeles, Specialization in Data Science, 2018.
 
@@ -125,7 +124,7 @@
 
 •	Georgetown University, School of Foreign Service, BS in international affairs (cum laude), 1981.
 ***
-### CERTIFICATES
+#### CERTIFICATES
 
 •	Statistical Learning, Stanford Online, 2016.
 
