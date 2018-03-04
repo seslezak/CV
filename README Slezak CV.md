@@ -20,7 +20,7 @@
   
   •	Forecasting and predictive modeling using machine learning methods – regression, decision trees, clustering, etc.
   
-  •	Utilize Excel, R programming, Domo, AWS EC2 distributed computing infrastructure, MySQL, monte carlo simulation, and QuickBooks.
+  •	Utilize Excel, R programming, Domo, AWS EC2 distributed computing infrastructure, AWS S3, MySQL, MongoDB, monte carlo simulation, and QuickBooks.
   
   •	Prepare reports for executives and Board of Directors.
   
@@ -56,7 +56,7 @@
 
 •	Created Excel interface for third party APIs to allow for live data streaming.
 
-•	Work with database systems (Domo, MS Azure, AWS, QuickBooks).
+•	Work with database systems (Domo, MS Azure, AWS (EC2 and S3), MongoDB, Hadoop, QuickBooks).
 
 •	Perform linear analyses, log regressions, random forest, cross validation, and others.
 
