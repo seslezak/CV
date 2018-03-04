@@ -56,7 +56,7 @@
 
 •	Created Excel interface for third party APIs to allow for live data streaming.
 
-•	Work with database systems (Domo, MS Azure, AWS (EC2 and S3), MongoDB, Hadoop, QuickBooks).
+•	Work with database systems (Domo, MS Azure, AWS -- EC2 and S3, MongoDB, Hadoop, QuickBooks).
 
 •	Perform linear analyses, log regressions, random forest, cross validation, and others.
 
