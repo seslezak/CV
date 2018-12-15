@@ -1,5 +1,6 @@
 ## Steven Slezak
-### Santa Monica, California 90403  
+### Los Angeles, California
+### 213-873-3282
 ***
 ### Data Analytics Solutions to Business and FP & A Problems;  
 ### Define Competitive Advantage and Create Value;  
@@ -10,59 +11,105 @@
 #### *https://rpubs.com/seslezak*
 #### *https://globalriskinsights.com/author/profslezak/*
 ***
-#### March 2016 to Date – Senior Financial Planning Analyst, CallFire Inc., Los Angeles, California.
+#### May 2018 to Date - Senior Data Analytics Lead, Farmers Insurance Group, Los Angeles, California
 
-  •	Financial data analyst at telecom tech company operating on SaaS model.
-  
-  •	Developed data disciplined, forward-looking, high tech approach to FP&A.
-  
-  •	Clean, structure, and analyze large financial and non-financial data sets.
-  
-  •	Forecasting and predictive modeling using machine learning methods – regression, decision trees, clustering, etc.
-  
-  •	Utilize Excel, R programming, Domo, AWS EC2 distributed computing infrastructure, AWS S3, MySQL, MongoDB, monte carlo simulation, and QuickBooks.
-  
-  •	Prepare reports for executives and Board of Directors.
-  
-  •	Assist operations director and staff in understanding financial implications of their decisions, to improve their ability to manage business.
-  
-  •	Create analyses of special problems, such as churn, scenario analyses, trend analyses, and decision analyses.  Assist other analysts and engineers develops financial skills.
-  
-  •	Support company-wide budgeting process across operational departments.
-  
-  •	Provide analysis to improve margin management, costs, and revenue.
-  
-  •	Devise ways to identify drivers and measure margins from differing perspectives.
-  
-  •	Lead working group involving accounting and engineering to develop system to accurately capture and report capitalization of software.
-  
-  •	Develop process and methods to capture and identify COGS, analyze cost variances and drivers, breaking costs down by vendor, function, and transaction.
-  
-  •	Track financial data (including costs) over time, for use in strategic decision making.
-  
-  •	Write and maintain GAAP-compliant financial planning models of business operations, top-down and bottom-up, P&L, Balance Sheet, Statement of Cash Flows and departmental budgets.
-  
-  •	Manage interdepartmental special projects:  creation of system for capturing and reporting revenue and costs, and importing information into financial data systems.
-  
-  •	Support business analysis function with resource allocation, planning, and development of projects to enhance product and customer service.
+•	Lead deployment and activation of data lake for Fortune 200 company.
+
+•	Lead teams creating business use cases and deploying production analytics.
+
+•	Write code and perform analytics using R, Ambari, Git, and other data science tools.
+
+•	Manage AWS console and data schema. 
+
+•	Monitor costs, HDFS performance, and issue reports.
+
+•	Implement solutions for secure logging of usage, queries, and access to data lake
+
+•	Create training materials, education curriculum, and knowledge base for end users
+
+•	Troubleshoot defects and performance issues; run user acceptance testing
+
+•	Drive advanced analytics experiments to produce insights and solutions supporting strategic enterprise objectives
+
+•	Lead implementation of new capabilities
+
+•	Lead cross-functional experiments to identify and prioritize high-impact insights
+
+•	Support CDO initiatives to advance customer analytic data and capabilities
+
+•	Query customer data, aggregates, and performs exploratory analysis 
+
+•	Answer key business questions in traditional DW/BI and Hadoop (Big Data) environments.
+
+•	Conduct regular customer data training sessions.
+
+•	Facilitate Customer Data Lake user group forum, build community, and drive adoption.
+
+•	Publish periodic data quality reports to support stakeholder review and prioritization discussions
+
+•	Provide level 2 support to Help Desk inquiries regarding customer data
+
+•	Support quarterly talks to introduce new customer data capabilities and spotlight use cases.
+
+•	Support Data Governance and Data Stewardship functions
+***
+#### March 2016 to February 2018 – Senior Financial Planning Analyst, CallFire Inc., Los Angeles, California.
+
+•	Financial data analyst at telecom tech company operating on SaaS model.
+
+•	Developed data disciplined, forward-looking, high tech approach to FP&A.
+
+•	Clean, structure, and analyze large financial and non-financial data sets.
+
+•	Lead master data management project for data base migration and data governance.
+
+•	Forecasting and predictive modeling using machine learning methods – regression, decision trees, clustering, etc.
+
+•	Utilize Excel, R programming, Domo, AWS EC2 distributed computing infrastructure, MySQL, monte carlo simulation, and QuickBooks.
+
+•	Assist operations director and staff in understanding financial implications of their decisions, to improve their ability to manage 
+business. 
+
+•	Create analyses of special problems, such as churn, scenario analyses, trend analyses, and decision analyses.  Assist other analysts 
+and engineers develops financial skills. 
+
+•	Support company-wide budgeting process across operational departments.
+
+•	Provide analysis to improve margin management, costs, and revenue.
+
+•	Devise ways to identify drivers and measure margins from differing perspectives.
+
+•	Lead working group involving accounting and engineering to develop system to accurately capture and report capitalization of software.
+
+•	Develop process and methods to capture and identify COGS, analyze cost variances and drivers, breaking costs down by vendor, function, 
+and transaction.
+
+•	Track financial data (including costs) over time, for use in strategic decision making.
+
+•	Write GAAP-compliant financial planning models of business operations, top-down and bottom-up, P&L, Balance Sheet, Statement of Cash 
+Flows and departmental budgets.
+
+•	Manage interdepartmental special projects:  creation of system for capturing and reporting revenue and costs, and software 
+capitalization process.
+
+•	Support business analysis function with resource allocation, planning, and development of projects to enhance product and customer 
+service.
 ***
 #### March 2002 to February 2016 – Consultant, FinEx Co. LLC, San Luis Obispo, California.
 
 •	Financial data analysis and strategic management consultant to clients in education, agriculture and agribusiness, health care, and technology. 
 
-•	Data analysis and data management using high-level Excel skills, R-programming, and Machine Learning methods.
+•	Data management  and data analysis using high-level Excel skills, R-programming, and Machine Learning methods.
 
 •	Spin up AWS servers for scalable and sustainable infrastructure.
 
 •	Created Excel interface for third party APIs to allow for live data streaming.
 
-•	Work with database systems (Domo, MS Azure, AWS -- EC2 and S3, MongoDB, Hadoop, QuickBooks).
-
-•	Perform linear analyses, log regressions, random forest, cross validation, and others.
+•	Work with database systems (Domo, MS Azure, AWS, QuickBooks).
 
 •	Risk analysis, including economic analysis of risk, costs, loss, and risk.
 
-•	Probability studies and statistical analyses.
+•	Probability studies and statistical analyses, linear analyses, log regressions, random forest, and others.
 
 •	Economic, financial, and operations model building, data simulation, monte carlo simulation and modeling, financial planning and analysis, statistical analysis, revenue and costs analyses.
 ***
@@ -73,6 +120,9 @@
 #### September 2006 to December 2015 – Lecturer, Agribusiness Department, College of Agriculture, Food, and Environmental Science; Mathematics Department, College of Science and Mathematics; and Finance Department, Orfalea College of Business, Cal Poly, San Luis Obispo, California.
 
 •	Taught undergraduate courses in algebra, calculus, financial analysis, strategic planning, risk management, international trade, linear programming, and Excel.
+
+•	Built economic and financial data base for California bank consortium addressing problems of master data management, data integrity, and data governance.
+
 ***
 #### September 2004 to December 2005 – Practitioner Faculty, Finance Department, Carey Business School, Johns Hopkins University, Baltimore, Maryland.
 
@@ -84,7 +134,7 @@
 
 •	Led overhaul of corporate financial planning and analysis function.
 
-•	Firm held substantial exposure to energy and real estate assets.
+•	Provided analytics support for managing substantial energy and real estate assets.
 
 •	Developed strategic asset allocation strategy and risk management strategies for large investment portfolio of corporate and endowment investments.
 
@@ -116,7 +166,9 @@
 ***
 #### EDUCATION
 
-•	Candidate, University of California, Los Angeles, Specialization in Data Science, 2018.
+•	Georgia Institute of Technology, Master’s Candidate, OMS Analytics, 2022.
+
+•	University of California, Los Angeles, Specialization in Data Science, 2018.
 
 •	Johns Hopkins University, MBA in Finance, 2000.
 
